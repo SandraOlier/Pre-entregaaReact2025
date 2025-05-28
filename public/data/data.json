@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Smartwatch Apple Watch Series 9",
+        "categoria": "Tecnología",
+        "precio": 399.99,
+        "stock": 12,
+        "imagen": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg",
+        "descripcion": "Reloj inteligente con pantalla Retina, sensores avanzados y resistencia al agua."
+    },
+    {
+        "id": 2,
+        "nombre": "Zapatillas Adidas Ultraboost",
+        "categoria": "Calzado",
+        "precio": 180.00,
+        "stock": 20,
+        "imagen": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+        "descripcion": "Zapatillas deportivas con tecnología Boost para máxima comodidad y rendimiento."
+    },
+    {
+        "id": 3,
+        "nombre": "Bolso de cuero genuino",
+        "categoria": "Accesorios",
+        "precio": 250.00,
+        "stock": 8,
+        "imagen": "https://images.pexels.com/photos/326670/pexels-photo-326670.jpeg",
+        "descripcion": "Bolso elegante de cuero genuino con amplio espacio y diseño sofisticado."
+    },
+    {
+        "id": 4,
+        "nombre": "Perfume Dior Sauvage",
+        "categoria": "Belleza",
+        "precio": 120.00,
+        "stock": 15,
+        "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg",
+        "descripcion": "Fragancia masculina con notas frescas y amaderadas, ideal para cualquier ocasión."
+    },
+    {
+        "id": 5,
+        "nombre": "Laptop MacBook Air M2",
+        "categoria": "Tecnología",
+        "precio": 1299.99,
+        "stock": 10,
+        "imagen": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+        "descripcion": "Portátil ultraligero con chip M2, pantalla Retina y batería de larga duración."
+    }
+]
